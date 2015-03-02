@@ -303,6 +303,16 @@
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BullsAndCows.Data\BullsAndCows.Data.csproj">
+      <Project>{7c873ab9-19bf-4fa2-bbc5-759e584a1186}</Project>
+      <Name>BullsAndCows.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BullsAndCows.Models\BullsAndCows.Models.csproj">
+      <Project>{5edd6257-1252-4e09-8dc3-b2075ee9d07c}</Project>
+      <Name>BullsAndCows.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

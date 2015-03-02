@@ -61,3 +61,7 @@ C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows
 C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\obj\Debug\BullsAndCows.Web.csprojResolveAssemblyReference.cache
 C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\obj\Debug\BullsAndCows.Web.dll
 C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\obj\Debug\BullsAndCows.Web.pdb
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\BullsAndCows.Data.dll
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\BullsAndCows.Models.dll
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\BullsAndCows.Data.pdb
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\BullsAndCows.Models.pdb

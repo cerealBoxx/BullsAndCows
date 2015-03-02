@@ -13,6 +13,8 @@ using BullsAndCows.Web.Models;
 
 namespace BullsAndCows.Web.Providers
 {
+    using BullsAndCows.Models;
+
     public class ApplicationOAuthProvider : OAuthAuthorizationServerProvider
     {
         private readonly string _publicClientId;

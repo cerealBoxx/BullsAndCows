@@ -13,6 +13,8 @@ using BullsAndCows.Web.Models;
 
 namespace BullsAndCows.Web
 {
+    using Data;
+
     public partial class Startup
     {
         public static OAuthAuthorizationServerOptions OAuthOptions { get; private set; }
