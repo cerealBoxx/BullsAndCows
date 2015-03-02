@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullsAndCows.Web", "BullsAndCows.Web\BullsAndCows.Web.csproj", "{CEA5DE86-7727-448C-9718-BB359227DD31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullsAndCows.Models", "BullsAndCows.Models\BullsAndCows.Models.csproj", "{5EDD6257-1252-4E09-8DC3-B2075EE9D07C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullsAndCows.Data", "BullsAndCows.Data\BullsAndCows.Data.csproj", "{7C873AB9-19BF-4FA2-BBC5-759E584A1186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEA5DE86-7727-448C-9718-BB359227DD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA5DE86-7727-448C-9718-BB359227DD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA5DE86-7727-448C-9718-BB359227DD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA5DE86-7727-448C-9718-BB359227DD31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDD6257-1252-4E09-8DC3-B2075EE9D07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDD6257-1252-4E09-8DC3-B2075EE9D07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDD6257-1252-4E09-8DC3-B2075EE9D07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDD6257-1252-4E09-8DC3-B2075EE9D07C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C873AB9-19BF-4FA2-BBC5-759E584A1186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C873AB9-19BF-4FA2-BBC5-759E584A1186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C873AB9-19BF-4FA2-BBC5-759E584A1186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C873AB9-19BF-4FA2-BBC5-759E584A1186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
