@@ -1,7 +1,7 @@
-# BullsAndCows
+ BullsAndCows
+===============
+##Web Services and Cloud – Practical Exam – September 2014
 
-Web Services and Cloud – Practical Exam – September 2014
-======================================================
 Task description
 Bulls and Cows game description
 Implement the server logic of the Bulls and Cows game. The rules of the game are:
