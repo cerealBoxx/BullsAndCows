@@ -1,0 +1,14 @@
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Models\bin\Debug\BullsAndCows.Models.dll.config
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Models\bin\Debug\BullsAndCows.Models.dll
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Models\bin\Debug\BullsAndCows.Models.pdb
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Models\bin\Debug\EntityFramework.dll
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Models\bin\Debug\EntityFramework.xml
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Models\obj\Debug\BullsAndCows.Models.csprojResolveAssemblyReference.cache
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Models\obj\Debug\BullsAndCows.Models.dll
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Models\obj\Debug\BullsAndCows.Models.pdb
