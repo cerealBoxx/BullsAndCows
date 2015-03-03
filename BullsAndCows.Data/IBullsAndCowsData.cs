@@ -3,7 +3,7 @@
     using Models;
     using Repositories;
 
-    interface IBullsAndCowsData
+    public interface IBullsAndCowsData
     {
         IRepository<ApplicationUser> Users { get; }
         IRepository<Game> Games { get; }
