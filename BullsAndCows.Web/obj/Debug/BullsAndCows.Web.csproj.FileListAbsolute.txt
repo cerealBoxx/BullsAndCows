@@ -65,3 +65,14 @@ C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows
 C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\BullsAndCows.Models.dll
 C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\BullsAndCows.Data.pdb
 C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\BullsAndCows.Models.pdb
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\Ninject.dll
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\Ninject.Web.Common.dll
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\Ninject.Web.Common.OwinHost.dll
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\Ninject.Web.WebApi.dll
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\WebActivatorEx.dll
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\Ninject.xml
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\Ninject.Web.Common.xml
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\Ninject.Web.Common.OwinHost.xml
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\Ninject.Web.WebApi.xml
+C:\Users\Cookie\Desktop\Web ServicesCloud\BullsAndCows\BullSAndCows\BullsAndCows.Web\bin\Ninject.Web.WebApi.WebHost.xml
